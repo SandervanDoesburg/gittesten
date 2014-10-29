@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LED matrix", "LED matrix\LED matrix.cproj", "{00CF7A45-A170-4F69-A5D0-EA73461A1B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CF7A45-A170-4F69-A5D0-EA73461A1B69}.Debug|AVR.ActiveCfg = Debug|AVR
+		{00CF7A45-A170-4F69-A5D0-EA73461A1B69}.Debug|AVR.Build.0 = Debug|AVR
+		{00CF7A45-A170-4F69-A5D0-EA73461A1B69}.Release|AVR.ActiveCfg = Release|AVR
+		{00CF7A45-A170-4F69-A5D0-EA73461A1B69}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
