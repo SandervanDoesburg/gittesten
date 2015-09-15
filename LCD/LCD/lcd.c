@@ -5,7 +5,7 @@
  *  \version 1.0
  *
  *  \brief   lcd driver for Xmega
- *specspecspecspecs
+ *specspecspecspecsspecs
  *  \details This file contains the routines for interfacing a HD44780U-based text
  *           lcd display for Atmel Xmega devices.
  *
